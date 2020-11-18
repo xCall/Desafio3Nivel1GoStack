@@ -4,7 +4,7 @@
 
 ## Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactNative!
 
-![](/src/assets/print.png)
+![](/src/assets/test.png)
 
 
 TABLE OF CONTENTS
