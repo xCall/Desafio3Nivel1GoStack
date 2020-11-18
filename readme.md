@@ -5,6 +5,8 @@
 ## Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactNative!
 
 ![](/assets/test.png)
+![test](https://user-images.githubusercontent.com/44867318/99477544-7780d400-2931-11eb-9e3d-3e44c1c96594.png)
+
 
 
 TABLE OF CONTENTS
